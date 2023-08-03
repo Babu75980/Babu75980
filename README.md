@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/babu-p-351265286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/babu-p-351265286" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/singababu.babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/singababu.babu" height="30" width="40" /></a>
 <a href="https://instagram.com/babu_frds_4ever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babu_frds_4ever" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ba_dkdon9069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ba_dkdon9069" height="30" width="40" /></a>
+<a href="https://youtube.com/@ba_dkdon9069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ba_dkdon9069" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
