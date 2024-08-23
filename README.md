@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/babufrds4e88350" target="blank"><img src="https://img.shields.io/twitter/follow/babufrds4e88350?logo=twitter&style=for-the-badge" alt="babufrds4e88350" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
-
+- 🌱 I’m currently Pursuing **Java** full stack development course
 - 📫 How to reach me **babu220103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
