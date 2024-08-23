@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Babu. i want to become a Software Developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babu75980&label=Profile%20views&color=0e75b6&style=flat" alt="babu75980" /> </p>
 
-<p align="left"> <a href="https://twitter.com/babufrds4e88350" target="blank"><img src="https://img.shields.io/twitter/follow/babufrds4e88350?logo=twitter&style=for-the-badge" alt="babufrds4e88350" /></a> </p>
-
 - 🌱 I’m currently Pursuing **Java** full stack development course
 - 📫 How to reach me **babu220103@gmail.com**
 
