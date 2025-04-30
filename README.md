@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Software Developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babu75980&label=Profile%20views&color=0e75b6&style=flat" alt="babu75980" /> </p>
 
-- 🌱 I’m currently Pursuing **Java** full stack development course
+- 🌱 I’m currently working in Finytive pvt ltd as a Backend Developer
 - 📫 How to reach me **babu220103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
