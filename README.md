@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Babu. i want to become a Software Developer.</h1>
+<h1 align="center">Hi 👋, I'm Software Developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babu75980&label=Profile%20views&color=0e75b6&style=flat" alt="babu75980" /> </p>
 
 - 🌱 I’m currently Pursuing **Java** full stack development course
