@@ -1,20 +1,140 @@
-<h1 align="center">Hi 👋, I'm Software Developer.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babu75980&label=Profile%20views&color=0e75b6&style=flat" alt="babu75980" /> </p>
+<div align="center">
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Babu%20Perumal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20Spring%20Boot%20%7C%20Java&descAlignY=60&descColor=a8d8ea&animation=fadeIn" />
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=babu75980&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile views" />
+<!-- Typing SVG -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a8d8ea&center=true&vCenter=true&width=600&lines=Angular+Developer+%40+Finytive+Pvt+Ltd;Full+Stack+Developer+%7C+Java+%2B+Spring+Boot;Building+Scalable+Web+Applications;Open+to+New+Opportunities+%F0%9F%9A%80)
+</div>
+---
+👨‍💻 About Me
+```java
+public class BabuPerumal {
 
-- 🌱 I’m currently working in Finytive pvt ltd as a Backend Developer
-- 📫 How to reach me **babu220103@gmail.com**
+    String  name        = "Babu Perumal";
+    String  role        = "Angular Developer @ Finytive Pvt Ltd";
+    String  location    = "Chennai, Tamil Nadu, India";
+    String  email       = "babu220103@gmail.com";
+    boolean openToWork  = true;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/babufrds4e88350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babufrds4e88350" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/babu-p-351265286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/babu-p-351265286" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/singababu.babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/singababu.babu" height="30" width="40" /></a>
-<a href="https://instagram.com/babu_frds_4ever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babu_frds_4ever" height="30" width="40" /></a>
-<a href="https://youtube.com/@ba_dkdon9069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ba_dkdon9069" height="30" width="40" /></a>
-  <a href="https://youtube.com/@ba_dkdon9069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatspp.svg" alt="https://www.youtube.com/@ba_dkdon9069" height="30" width="40" /></a>
-</p>
+    String[] techStack  = {
+        "Java", "Spring Boot", "Angular", "TypeScript",
+        "PostgreSQL", "MySQL", "REST APIs", "Microservices"
+    };
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babu75980&show_icons=true&locale=en&layout=compact" alt="babu75980" /></p>
+    String[] currentFocus = {
+        "Building scalable front-end architectures",
+        "RESTful API integration",
+        "Agile & CI/CD workflows"
+    };
+}
+```
+---
+🚀 Experience
+<table>
+<tr>
+<td>
+💼 Angular Developer — Finytive Pvt Ltd
+Apr 2025 – Present · Chennai, India
+⚡ Building and maintaining Angular apps with reusable components, services & reactive forms
+🔗 Integrating RESTful APIs and optimizing performance for better UX
+🧩 Implementing routing, validations & state management for scalable front-end architecture
+🤝 Collaborating in Agile Scrum — sprint planning, standups & code reviews
+</td>
+</tr>
+</table>
+---
+🛠️ Tech Stack
+<div align="center">
+🌐 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+⚙️ Practices
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+</div>
+---
+📂 Featured Projects
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+🕐 Tickora — Attendance & Payroll System
+`Angular` `Spring Boot` `PostgreSQL`
+> A feature-rich workforce management platform with face recognition–based attendance tracking.
+Highlights:
+🤖 Face recognition–based attendance tracking
+🏖️ Leave management & payroll views
+🔐 Role-based dashboards & access control
+📱 Responsive UI with reactive forms & validations
+🔄 Seamless REST API integration
+![View Project](https://img.shields.io/badge/View_Project-2c5364?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td width="50%" valign="top">
+🚌 Online Bus Ticket Booking System
+`PHP` `MySQL` `JavaScript` `AJAX`
+> A full-featured bus ticket booking app with authentication and async UX.
+Highlights:
+🔑 User authentication & session management
+🗃️ MySQL queries for bookings & user management
+📡 JSON-based API responses
+⚡ AJAX-powered async form handling
+🎫 End-to-end booking functionality
+![View Project](https://img.shields.io/badge/View_Project-2c5364?style=for-the-badge&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
+</div>
+---
+📊 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=babu75980&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babu75980&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babu75980&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+---
+🎓 Education
+Degree	Institution	Year	Score
+🎓 B.E. Electronics & Communication Engineering	Park College of Engineering & Technology, Coimbatore	2020 – 2024	76.20%
+📚 Class 12 – State Board	Govt. Boys Higher Secondary School, Tiruchirappalli	2019 – 2020	80.06%
+📖 Class 10 – State Board	Govt. Boys Higher Secondary School, Tiruchirappalli	2017 – 2018	70.67%
+---
+🤝 Connect with Me
+<div align="center">
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+</div>
+---
+<div align="center">
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+⭐ If you find my work helpful, consider giving a star! ⭐
+</div>
