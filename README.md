@@ -83,12 +83,6 @@ A full-featured online ticket booking app with authentication and dynamic bookin
 
 ---
 
-## 📊 GitHub Stats
-
-![Babu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babu75980&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Babu75980&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 🎓 Education
 
