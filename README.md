@@ -57,7 +57,7 @@ I'm a Full Stack Developer passionate about building scalable, maintainable web 
 
 ## 🚀 Featured Projects
 
-### 🟡 Tickers — Attendance & Payroll System
+### 🟡 Tickora — Attendance & Payroll System
 `Angular` `Spring Boot` `PostgreSQL`
 
 A feature-rich workforce management platform with face recognition.
