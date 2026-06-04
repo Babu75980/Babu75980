@@ -2,7 +2,7 @@
 
 **Full Stack Developer** · Angular · Spring Boot · Java
 
-📍 Chennai, Tamil Nadu, India &nbsp;|&nbsp; 📧 babu2103@gmail.com &nbsp;|&nbsp; 🔓 Open to Work
+📍 Chennai, Tamil Nadu, India &nbsp;|&nbsp; 📧 babu220103@gmail.com &nbsp;|&nbsp; 🔓 Open to Work
 
 ---
 
